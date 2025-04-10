@@ -8,18 +8,18 @@ This C project simulates a game between butterflies and spiders on a user-define
 + Graph input as an adjacency matrix.
 
 
-+Validates user inputs.
++ Validates user inputs.
 
-+Calculates shortest paths using Dijkstra's algorithm.
++ Calculates shortest paths using Dijkstra's algorithm.
 
-+Simulates spider movement toward butterflies.
++ Simulates spider movement toward butterflies.
 
-+Allows butterflies to remove edges to avoid spiders.
++ Allows butterflies to remove edges to avoid spiders.
 
-+Ends when:
++ Ends when:
 
-+A spider catches a butterfly,
++ A spider catches a butterfly,
 
-+Butterflies isolate themselves from all spiders,
++ Butterflies isolate themselves from all spiders,
 
-+Or after 10 spider turns.
++ Or after 10 spider turns.
