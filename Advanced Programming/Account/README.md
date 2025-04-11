@@ -36,7 +36,7 @@ public:
 
 
 
-##📥 Sample Input
+📥 Sample Input
 
 1001
 Smith
@@ -44,7 +44,7 @@ Smith
 50
 20
 
-##📤 Output
+📤 Output
 
 1001
 Smith
