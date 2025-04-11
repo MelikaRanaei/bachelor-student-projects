@@ -55,7 +55,7 @@ Follow the prompts to:<br>
 
 Number of nodes: 4<br><br>
 
-Enter map:<br>
+Enter map:<br><br>
 0 1 1 0<br>
 1 0 0 1<br>
 1 0 0 1<br>
@@ -66,5 +66,18 @@ Spider positions: 1<br><br>
 
 Number of butterflies: 1<br>
 Butterfly positions: 3<br><br>
+
+**🎯 Goal of the Game**<br><br>
+Spiders: Reach a butterfly node.<br>
+
+Butterflies: Avoid spiders by removing critical edges.<br><br>
+
+**⚙️ Main Algorithms**<br><br>
+
+Dijkstra’s Algorithm: For computing shortest paths.<br>
+
+Graph Traversal & Simulation: To determine movement and disconnection logic.<br><br>
+
+
 
 
