@@ -55,16 +55,16 @@ Follow the prompts to:<br>
 
 Number of nodes: 4<br><br>
 
-Enter map:
-0 1 1 0
-1 0 0 1
-1 0 0 1
+Enter map:<br>
+0 1 1 0<br>
+1 0 0 1<br>
+1 0 0 1<br>
 0 1 1 0<br><br>
 
-Number of spiders: 1
+Number of spiders: 1<br>
 Spider positions: 1<br><br>
 
-Number of butterflies: 1
+Number of butterflies: 1<br>
 Butterfly positions: 3<br><br>
 
 
