@@ -1,8 +1,8 @@
-# Student Management - OOP Project
+# 🧑‍🎓 Student Management - OOP Project
 
 This project demonstrates basic Object-Oriented Programming (OOP) concepts in C++. It defines a `student` class to manage student information such as ID, name, and average score.
 
-## Features
+## 📌 Features
 
 - Create and store multiple student records
 - Input and store:
