@@ -34,3 +34,21 @@ public:
     void print();
 };
 
+---
+
+##📥 Sample Input
+
+1001
+Smith
+150
+50
+20
+
+##📤 Output
+
+1001
+Smith
+180
+
+
+
