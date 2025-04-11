@@ -7,7 +7,7 @@ This project is a basic **Object-Oriented Programming (OOP)** exercise in C++ th
 - Print account details<br><br>
 
 <div align="center">
-  <img src="bachelor-student-projects/Advanced Programming/images/account.png" alt="account Diagram" width="500" height="500"/>
+  <img src="images/account.png" alt="account Diagram" width="500" height="500"/>
 </div>
 
 
