@@ -2,11 +2,11 @@
 
 This C project simulates a game between butterflies and spiders on a user-defined graph. It uses Dijkstra's algorithm to calculate the shortest path between nodes and models strategic moves in a battle for survival.
 
-![Game Diagram](images/graph_diagram.png)
+![Game Diagram](images/graph_diagram.png)<br><br>
 
 
 
-**📌 Features**
+**📌 Features**<br><br>
 
 + Graph input as an adjacency matrix.
 
@@ -28,7 +28,7 @@ This C project simulates a game between butterflies and spiders on a user-define
 + Or after 10 spider turns.<br><br>
 
 
-**🧠 How It Works**<br><br><br><br>
+**🧠 How It Works**<br><br>
 
 
 + The graph is input by the user (symmetric adjacency matrix).
@@ -37,6 +37,6 @@ This C project simulates a game between butterflies and spiders on a user-define
 
 + Butterflies remove edges to prevent spiders from reaching them.
 
-+ The simulation continues until one of the end conditions is met.
++ The simulation continues until one of the end conditions is met.<br><br>
 
 
