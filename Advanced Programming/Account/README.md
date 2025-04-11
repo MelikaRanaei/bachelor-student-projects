@@ -4,7 +4,12 @@ This project is a basic **Object-Oriented Programming (OOP)** exercise in C++ th
 
 - Create an account with ID, family name, and balance
 - Deposit and withdraw money (with minimum balance rules)
-- Print account details
+- Print account details<br><br>
+
+<div align="center">
+  <img src="Advanced Programming/images/account.png" alt="account Diagram" width="500" height="500"/>
+</div>
+
 
 ---
 
