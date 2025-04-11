@@ -1,6 +1,6 @@
 # Inherited Geometry Classes 
 
-This repository contains an implementation of `Circle` and `Cylinder` classes demonstrating object-oriented programming concepts such as inheritance, constructors, destructors, and operator overloading in C++.
+This code contains an implementation of `Circle` and `Cylinder` classes demonstrating object-oriented programming concepts such as inheritance, constructors, destructors, and operator overloading in C++.
 
 ### Features ⚙️
 
