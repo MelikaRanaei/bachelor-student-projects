@@ -41,3 +41,24 @@ The main components of the code are:<br>
    - If it does, add the edge to the MST and perform a union of the two components.
 4. **Stop** once the MST contains exactly `n-1` edges (where `n` is the number of nodes).<br>
 
+### Example Usage 🖥️:<br>
+**Input Format**:<br>
+
+The first line contains two integers: n (number of nodes) and m (number of edges).<br>
+
+The next m lines contain three integers each: u, v, w where u and v are the nodes connected by an edge, and w is the weight of that edge.<br>
+
+**Sample Input:**<br>
+4 5<br>
+1 2 10<br>
+1 3 20<br>
+2 3 30<br>
+3 4 40<br>
+2 4 50<br>
+**Sample Output:**<br>
+100<br>
+The output represents the total weight of the MST.
+
+
+
+
