@@ -3,7 +3,7 @@
 <br>This C project simulates a game between butterflies and spiders on a user-defined graph. It uses Dijkstra's algorithm to calculate the shortest path between nodes and models strategic moves in a battle for survival.<br><br>
 
 <div align="center">
-  <img src="images/graph_diagram.png" alt="Game Diagram" width="800" height="700"/>
+  <img src="images/graph_diagram.png" alt="Game Diagram" width="700" height="500"/>
 </div>
 
 
