@@ -19,25 +19,25 @@ This code contains a C++ implementation of **Kruskal's Algorithm** to find the *
 
 5. **The final result** is the sum of the weights of the edges in the MST.
 
-Kruskal’s Algorithm is efficient when the graph is sparse (i.e., it has relatively fewer edges). It ensures that the resulting tree connects all vertices while minimizing the total weight.
+Kruskal’s Algorithm is efficient when the graph is sparse (i.e., it has relatively fewer edges). It ensures that the resulting tree connects all vertices while minimizing the total weight.<br>
 
-### Features ✨:
+### Features ⚙️:<br>
 - Implements Kruskal's algorithm to find the MST.
 - Uses a **union-find** (disjoint-set) data structure to manage connected components.
-- Efficiently sorts edges and performs union and find operations to determine the MST.
+- Efficiently sorts edges and performs union and find operations to determine the MST.<br>
 
-### C++ Implementation 🖥️:
-The main components of the code are:
+### C++ Implementation 🖥️:<br>
+The main components of the code are:<br>
 1. **Edge Structure**: Defines edges with their endpoints (`u`, `v`) and weight (`w`).
 2. **Union-Find Operations**: The `findParent` and `set` functions manage connected components using path compression.
 3. **Sorting**: Edges are sorted in ascending order by weight using `std::sort`.
-4. **Kruskal's Algorithm**: Implements the logic to select edges and form the MST by checking if the edge would create a cycle.
+4. **Kruskal's Algorithm**: Implements the logic to select edges and form the MST by checking if the edge would create a cycle.<br>
 
-### Algorithm Steps 🛠️:
+### Algorithm Steps 🛠️:<br>
 1. **Sort** all the edges in non-decreasing order of their weight.
 2. **Initialize** the disjoint-set structure for the nodes.
-3. **Iterate** over sorted edges:
+3. **Iterate** over sorted edges:<br>
    - For each edge, check if it connects two different components.
    - If it does, add the edge to the MST and perform a union of the two components.
-4. **Stop** once the MST contains exactly `n-1` edges (where `n` is the number of nodes).
+4. **Stop** once the MST contains exactly `n-1` edges (where `n` is the number of nodes).<br>
 
