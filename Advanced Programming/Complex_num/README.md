@@ -1,6 +1,6 @@
 # Complex Number Operations in C++ 🧮✨
 
-This repository contains a C++ implementation of a class `Complex` that models complex numbers and provides various operations for performing arithmetic and polar transformations. 🔢
+This repository contains a C++ implementation of a class `Complex` that models complex numbers and provides various operations for performing arithmetic and polar transformations. 🔢<br>
 
 ## Overview 🌐
 
@@ -8,7 +8,7 @@ The `Complex` class includes the following functionalities:
 - Setting and initializing a complex number. 🎯
 - Performing addition, subtraction, multiplication, and division on complex numbers. ➕➖✖️➗
 - Converting complex numbers to polar form. 🔄
-- Printing complex numbers in both Cartesian and polar forms. 📊
+- Printing complex numbers in both Cartesian and polar forms. 📊<br>
 
 ## Features ⚙️
 
@@ -17,14 +17,14 @@ The `Complex` class includes the following functionalities:
 - **Multiplication**: Multiply two complex numbers. ✖️
 - **Division**: Divide one complex number by another. ➗
 - **Polar Representation**: Convert and print complex numbers in polar form. 🌍
-- **Cartesian Representation**: Print complex numbers in the standard Cartesian format. 📐
+- **Cartesian Representation**: Print complex numbers in the standard Cartesian format. 📐<br>
 
 ## Class Definition 📚
 
 The `Complex` class includes:
 - **Private Members**: 
   - `RealPart` (double): The real part of the complex number. 💡
-  - `ImagPart` (double): The imaginary part of the complex number. 🌙
+  - `ImagPart` (double): The imaginary part of the complex number. 🌙<br>
 
 - **Public Methods**:
   - `Complex(double real = 0, double imag = 0)`: Constructor to initialize a complex number. 🛠️
@@ -35,7 +35,7 @@ The `Complex` class includes:
   - `Complex DivComplex(Complex second)`: Divides one complex number by another. ➗
   - `void Convert(double& r, double& theta)`: Converts the complex number to polar form. 🔄
   - `void printPolar()`: Prints the complex number in polar form. 🌍
-  - `void printCartesian()`: Prints the complex number in Cartesian form. 📐
+  - `void printCartesian()`: Prints the complex number in Cartesian form. 📐<br>
 
 ## Example Usage 💻
 
@@ -66,5 +66,5 @@ int main() {
     div.printPolar();  // Print result in Polar form
     
     return 0;
-}
+}<br>
 
