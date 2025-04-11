@@ -26,3 +26,24 @@ This C project simulates a game between butterflies and spiders on a user-define
 + Butterflies isolate themselves from all spiders,
 
 + Or after 10 spider turns.
+
+
+**🧠 How It Works**
+
+
+
+
+
+
+
+
+
++ The graph is input by the user (symmetric adjacency matrix).
+
++ Spiders try to reach the nearest butterfly using the shortest path.
+
++ Butterflies remove edges to prevent spiders from reaching them.
+
++ The simulation continues until one of the end conditions is met.
+
+
