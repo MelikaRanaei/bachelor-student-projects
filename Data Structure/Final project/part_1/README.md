@@ -5,7 +5,7 @@ This project demonstrates the use of a **Trie Tree (Prefix Tree)** to efficientl
 ---
 
 <div align="center">
-  <img src="../images/trietree.png" alt="trietree Diagram" width="500" height="400"/>
+  <img src="../images/trietree.png" alt="trietree Diagram" width="600" height="400"/>
 </div>
 
 
