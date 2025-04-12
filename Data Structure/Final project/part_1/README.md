@@ -4,6 +4,13 @@ This project demonstrates the use of a **Trie Tree (Prefix Tree)** to efficientl
 
 ---
 
+<div align="center">
+  <img src="../images/trietree.png" alt="trietree Diagram" width="500" height="400"/>
+</div>
+
+
+---
+
 ## 📖 What is a Trie Tree?
 
 A **Trie Tree** is a tree-like data structure used to efficiently store and retrieve keys in a dataset of strings or binary representations. Each node in the trie represents a bit or character, and the path from the root to a leaf node represents a full key.
