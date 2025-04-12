@@ -2,7 +2,7 @@
 
 This project demonstrates a **Queue** data structure implemented using a **singly linked list** in C++. It's a simple yet powerful example of dynamic memory handling, with full support for standard queue operations.
 
----<br>
+
 
 ## 📖 What is a Queue?<br>
 
@@ -15,7 +15,7 @@ Queues are widely used in:
 - Breadth-first search in trees/graphs
 - Buffering data streams
 
----<br>
+
 
 ## 📋 Features<br>
 
@@ -25,7 +25,7 @@ Queues are widely used in:
 ✅ Access rear element (`printrear`)  
 ✅ Check if the queue is empty
 
----<br>
+
 
 ## 🧠 How It Works<br>
 
@@ -35,7 +35,7 @@ The queue is implemented using a custom `Node` structure and a `queue` class whi
 - Pointers to both the `front` and `rear` of the queue
 - Memory deallocation on `pop()`
 
----<br>
+
 
 ## 📦 Operations<br>
 
