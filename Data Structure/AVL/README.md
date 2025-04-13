@@ -1,6 +1,6 @@
 # 🌳 AVL Tree in C++
 
-![AVL Tree Diagram](https://upload.wikimedia.org/wikipedia/commons/f/fd/AVL_Tree_Example.svg)  
+
 *A self-balancing binary search tree (AVL Tree)*
 
 ---
@@ -68,7 +68,7 @@ Balance factor of  15 --> 0
 in order: 5 10 15
 pre order: 10 5 15
 
-![Your AVL Tree](relative/path/to/image.png)
+![AVL Tree](https://upload.wikimedia.org/wikipedia/commons/f/fd/AVL_Tree_Example.svg)
 
 
 
