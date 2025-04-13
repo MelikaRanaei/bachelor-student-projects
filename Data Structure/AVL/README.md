@@ -50,25 +50,25 @@ An **AVL Tree** is a self-balancing **Binary Search Tree (BST)**. In an AVL tree
 --- 
 ## 📊 Sample Interaction
 
-the number of chooses: 5
-1
-please enter a key for insert: 10
-1
-please enter a key for insert: 5
-1
-please enter a key for insert: 15
-2
-in order: 5 10 15
-pre order: 10 5 15
-8
-BF:
-Balance factor of  10 --> 0
-Balance factor of  5 --> 0
-Balance factor of  15 --> 0
-in order: 5 10 15
-pre order: 10 5 15
+the number of chooses: 5<br>
+1<br>
+please enter a key for insert: 10<br>
+1<br>
+please enter a key for insert: 5<br>
+1<br>
+please enter a key for insert: 15<br>
+2<br>
+in order: 5 10 15<br>
+pre order: 10 5 15<br>
+8<br>
+BF:<br>
+Balance factor of  10 --> 0<br>
+Balance factor of  5 --> 0<br>
+Balance factor of  15 --> 0<br>
+in order: 5 10 15<br>
+pre order: 10 5 15<br>
 
-![AVL Tree](https://upload.wikimedia.org/wikipedia/commons/f/fd/AVL_Tree_Example.svg)
+
 
 
 
