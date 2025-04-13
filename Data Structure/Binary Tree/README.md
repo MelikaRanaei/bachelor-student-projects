@@ -39,32 +39,32 @@ This implementation supports the following features:
 ---
 ## 📥 Sample Input
 
-7
-1 12.3
-1 -7
-1 0.56
-1 -11.2
-1 17
-2
-3
-4
+7<br>
+1 12.3<br>
+1 -7<br>
+1 0.56<br>
+1 -11.2<br>
+1 17<br>
+2<br>
+3<br>
+4<br>
 
-## 📤 Sample Output
+## 📤 Sample Output<br>
 
-in order:-11.2 -7 0.56 12.3 17 
-pre order:12.3 -7 -11.2 0.56 17 
-The number of leaf:3
-The number of non-leaf:2
+in order:-11.2 -7 0.56 12.3 17 <br>
+pre order:12.3 -7 -11.2 0.56 17 <br>
+The number of leaf:3<br>
+The number of non-leaf:2<br>
 
 ---
 
-## Interact via CLI – choose operations:
+## Interact via CLI – choose operations:<br>
 
-1 x  => Insert x
-2    => Display (in-order & pre-order)
-3    => Count leaf nodes
-4    => Count non-leaf nodes
-5 y  => Delete y
-6    => Remove duplicates
-7 z  => Lower bound of z
+1 x  => Insert x<br>
+2    => Display (in-order & pre-order)<br>
+3    => Count leaf nodes<br>
+4    => Count non-leaf nodes<br>
+5 y  => Delete y<br>
+6    => Remove duplicates<br>
+7 z  => Lower bound of z<br>
 
