@@ -6,7 +6,7 @@ This project implements a **linked list** data structure combined with a **radic
 ---
 
 <div align="center">
-  <img src="image/linklist.png" alt="linklist Diagram" width="500" height="400"/>
+  <img src="image/linklist.png" alt="linklist Diagram" width="600" height="350"/>
 </div>
 
 ---
