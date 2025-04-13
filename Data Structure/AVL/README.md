@@ -3,6 +3,10 @@
 
 *A self-balancing binary search tree (AVL Tree)*
 
+<div align="center">
+  <img src="image/avl.png" alt="tree Diagram" width="500" height="500"/>
+</div>
+
 ---
 
 ## 📘 What is an AVL Tree?
