@@ -48,4 +48,10 @@ Welcome to the **School Timetable Optimization** project — a Python-based syst
   ...
 ]
 
+---
+
+## 📊 Example Timetable Output
+
+
+
 
