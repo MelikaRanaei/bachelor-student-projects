@@ -52,6 +52,11 @@ Welcome to the **School Timetable Optimization** project — a Python-based syst
 
 ## 📊 Example Timetable Output
 
+<div align="center">
+  <img src="images/result.png" alt="result Diagram" width="500" hieght="500"/>
+</div>
+
+
 
 
 
